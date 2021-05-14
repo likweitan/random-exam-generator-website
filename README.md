@@ -1,1 +1,2 @@
-"# random-exam-generator-website" 
+# A random-exam-generator-website
+## Made with Django & SQLite
